@@ -1,3 +1,7 @@
+//This is the original version of Alignment.cpp
+//Now this file is replace by Alignment.cpp which contains 3 classes
+//Alignment, Header, Alignment_Data
+
 #include <iostream>
 #include <string>
 #include<vector>
